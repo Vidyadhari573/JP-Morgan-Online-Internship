@@ -1,3 +1,2 @@
-# TASK-1
+# JP Morgan Online Internship
 
-Interface with a stock price data feed
